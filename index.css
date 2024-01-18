@@ -1,0 +1,182 @@
+.vali-domeen-child,
+.vali-domeen-inner,
+.vali-domeen-item {
+  position: absolute;
+  top: 68px;
+  border-radius: 50%;
+  width: 57px;
+  height: 57px;
+}
+.vali-domeen-child {
+  left: 696px;
+  background-color: #beffb4;
+}
+.vali-domeen-inner,
+.vali-domeen-item {
+  left: 932px;
+  background-color: var(--color-silver);
+}
+.vali-domeen-inner {
+  left: 1166px;
+}
+.div,
+.div1 {
+  top: 0;
+  font-size: var(--font-size-14xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.div {
+  position: absolute;
+  left: 0;
+  width: 3px;
+  height: 30px;
+}
+.div1 {
+  left: 232.9px;
+  width: 4.4px;
+}
+.div1,
+.div2,
+.parent {
+  position: absolute;
+  height: 30px;
+}
+.div2 {
+  top: 0;
+  left: 467.3px;
+  font-size: var(--font-size-14xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 3.7px;
+}
+.parent {
+  top: 77px;
+  left: 718px;
+  width: 471px;
+}
+.sisesta-andmed,
+.tellimus-edastatud,
+.vali-domeen1,
+.vali-domeen2 {
+  position: absolute;
+  top: 129px;
+  left: 670px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.sisesta-andmed,
+.tellimus-edastatud,
+.vali-domeen2 {
+  left: 892px;
+}
+.tellimus-edastatud,
+.vali-domeen2 {
+  left: 1114px;
+}
+.vali-domeen2 {
+  top: 253px;
+  left: 850px;
+  font-size: var(--font-size-14xl);
+}
+.frame-input {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-white);
+  top: 348px;
+  left: 547px;
+  border-radius: var(--br-mini);
+  width: 407px;
+  height: 58px;
+  overflow: hidden;
+  padding: 15px var(--padding-2xl) 12px;
+  box-sizing: border-box;
+  color: var(--color-gray);
+}
+.frame-input,
+.frame-select,
+.http {
+  position: absolute;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-7xl);
+}
+.http {
+  top: 361px;
+  left: 448px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 106px;
+  height: 38px;
+}
+.frame-select {
+  top: 347px;
+  left: 965px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 0;
+  width: 493px;
+  height: 58px;
+  overflow: hidden;
+  padding: 16px var(--padding-2xl) 11px;
+  box-sizing: border-box;
+  color: var(--color-gray);
+}
+.component-1-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #dedede;
+}
+.tekst {
+  position: absolute;
+  top: 33%;
+  left: 38%;
+  font-size: 28px;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.component-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 961px;
+  left: 1574px;
+  width: 300px;
+  height: 100px;
+}
+.arrow-icon,
+.vali-domeen-child1 {
+  position: absolute;
+  top: 96.9px;
+  left: 996.1px;
+  width: 158.4px;
+  height: 0.8px;
+  object-fit: contain;
+}
+.vali-domeen-child1 {
+  top: 96.2px;
+  left: 762.4px;
+}
+.vali-domeen {
+  margin: 0;
+  position: relative;
+  background-color: #8bb187;
+  width: 100%;
+  height: 1107px;
+  overflow: hidden;
+}
