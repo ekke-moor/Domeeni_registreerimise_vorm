@@ -22,16 +22,18 @@
 .component-1-parent {
   cursor: pointer;
   border: 0;
-  padding: 0;
   background-color: transparent;
   position: relative;
-  width: 300px;
-  height: 100px;
+}
+.component-1 {
+  padding: 0;
+  width: 18.75rem;
+  height: 6.25rem;
 }
 .component-1-parent {
-  padding: 46px;
+  padding: 2.88rem;
   width: 100%;
-  height: 194px;
+  height: 12.13rem;
   overflow: hidden;
   display: flex;
   flex-direction: row;

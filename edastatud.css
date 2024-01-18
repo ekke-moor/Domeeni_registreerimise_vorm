@@ -7,7 +7,7 @@
 }
 .frame-inner,
 .tellimus-edastatud-wrapper {
-  width: 199px;
+  width: 12.44rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -15,10 +15,10 @@
 }
 .frame-inner {
   position: absolute;
-  top: 189px;
+  top: 11.81rem;
   left: 0;
-  width: 1920px;
-  height: 287px;
+  width: 120rem;
+  height: 17.94rem;
   overflow: hidden;
   padding: var(--padding-45xl) var(--padding-443xl) var(--padding-45xl)
     var(--padding-429xl);
@@ -26,11 +26,11 @@
 }
 .frame-child {
   position: relative;
-  width: 527px;
-  height: 57px;
+  width: 32.94rem;
+  height: 3.56rem;
 }
 .frame4 {
-  width: 528px;
+  width: 33rem;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -39,11 +39,11 @@
 }
 .frame5 {
   position: relative;
-  width: 570px;
-  height: 68px;
+  width: 35.63rem;
+  height: 4.25rem;
   overflow: hidden;
   flex-shrink: 0;
-  margin-top: -48px;
+  margin-top: -3rem;
 }
 .frame2,
 .frame3 {
@@ -52,14 +52,14 @@
   flex-direction: column;
 }
 .frame3 {
-  width: 570px;
-  height: 77px;
+  width: 35.63rem;
+  height: 4.81rem;
   flex-shrink: 0;
   align-items: flex-start;
   justify-content: flex-start;
 }
 .frame2 {
-  width: 617px;
+  width: 38.56rem;
   align-items: flex-end;
   justify-content: center;
 }
@@ -68,145 +68,149 @@
 .vali-domeen {
   position: absolute;
   top: 0;
-  left: 0;
   font-size: var(--font-size-lg);
   font-family: var(--font-inter);
   color: var(--color-black);
   text-align: left;
 }
+.vali-domeen {
+  left: 0;
+}
 .sisesta-andmed,
 .tellimus-edastatud1 {
-  left: 444px;
+  left: 27.75rem;
 }
 .sisesta-andmed {
-  left: 222px;
+  left: 13.88rem;
 }
 .vali-domeen-parent {
   position: relative;
-  width: 605px;
-  height: 22px;
+  width: 37.81rem;
+  height: 1.38rem;
 }
 .frame8 {
   overflow: hidden;
 }
+.frame-parent,
 .frame-wrapper,
+.frame6,
+.frame7,
 .frame8 {
-  width: 605px;
+  width: 37.81rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
-.frame7 {
-  width: 630px;
-  align-items: flex-end;
-  justify-content: center;
-}
 .frame-parent,
-.frame1,
 .frame6,
 .frame7 {
+  width: 39.38rem;
   overflow: hidden;
-  display: flex;
-  flex-direction: column;
-}
-.frame6 {
-  width: 703px;
   align-items: flex-end;
-  justify-content: center;
 }
 .frame-parent,
-.frame1 {
-  align-items: center;
+.frame6 {
+  width: 43.94rem;
 }
 .frame-parent {
-  width: 1915px;
-  height: 189px;
+  width: 119.69rem;
+  height: 11.81rem;
   flex-shrink: 0;
+  align-items: center;
   justify-content: flex-end;
   padding: var(--padding-5xs) var(--padding-587xl);
   box-sizing: border-box;
   gap: var(--gap-sm);
 }
+.frame-item,
 .frame1 {
   position: absolute;
   top: 0;
-  left: -11px;
-  width: 1942px;
+}
+.frame1 {
+  left: -0.69rem;
+  width: 121.38rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
 }
-.ellipse-div,
-.frame-child1,
 .frame-item {
-  position: absolute;
-  top: 0;
-  left: 493.5px;
+  left: 30.84rem;
   border-radius: 50%;
   background-color: var(--color-lightgreen);
-  width: 57px;
-  height: 57px;
+  width: 3.56rem;
+  height: 3.56rem;
 }
 .ellipse-div,
 .frame-child1 {
-  top: 4.3px;
-  left: 257px;
+  position: absolute;
+  top: 0.27rem;
+  border-radius: 50%;
   background-color: var(--color-silver);
+}
+.ellipse-div {
+  left: 16.06rem;
+  width: 3.56rem;
+  height: 3.56rem;
 }
 .frame-child1 {
   left: 0;
-  width: 56px;
-  height: 53px;
+  width: 3.5rem;
+  height: 3.31rem;
 }
 .div,
 .div1,
 .div2 {
   position: absolute;
-  top: 7.3px;
-  left: 511px;
+  top: 0.46rem;
+  left: 31.94rem;
   font-size: var(--font-size-14xl);
   font-family: var(--font-inter);
   color: var(--color-black);
   text-align: left;
   display: inline-block;
-  width: 34px;
-  height: 35px;
+  width: 2.13rem;
+  height: 2.19rem;
 }
 .div1,
 .div2 {
-  top: 12.3px;
-  left: 274px;
-  width: 32px;
-  height: 38px;
+  top: 0.77rem;
+  left: 17.13rem;
+  width: 2rem;
+  height: 2.38rem;
 }
 .div2 {
-  top: 10.3px;
-  left: 17px;
-  width: 34px;
-  height: 40px;
+  top: 0.64rem;
+  left: 1.06rem;
+  width: 2.13rem;
+  height: 2.5rem;
 }
 .arrow-icon,
 .frame-child2 {
   position: absolute;
-  top: 32.3px;
-  left: 321.5px;
-  width: 149.5px;
-  height: 0.4px;
+  top: 2.02rem;
+  left: 20.09rem;
+  width: 9.34rem;
+  height: 0.03rem;
   object-fit: contain;
 }
 .frame-child2 {
-  top: 31.8px;
-  left: 71.1px;
-  width: 169.6px;
-  height: 0.9px;
+  top: 1.99rem;
+  left: 4.44rem;
+  width: 10.6rem;
+  height: 0.06rem;
 }
 .ellipse-parent {
   position: relative;
-  width: 550.5px;
-  height: 61.3px;
+  width: 34.41rem;
+  height: 3.83rem;
 }
 .frame-div,
 .frame9 {
-  height: 61.3px;
+  height: 3.83rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -214,36 +218,36 @@
 }
 .frame9 {
   position: absolute;
-  top: 78.7px;
-  left: 699px;
-  width: 550.5px;
-  height: 64.6px;
+  top: 4.92rem;
+  left: 43.69rem;
+  width: 34.41rem;
+  height: 4.04rem;
   overflow: hidden;
   justify-content: flex-start;
 }
 .edastatud-child,
 .frame {
-  width: 1920px;
+  width: 120rem;
   overflow: hidden;
   flex-shrink: 0;
 }
 .frame {
   position: relative;
-  height: 476px;
+  height: 29.75rem;
 }
 .edastatud-child {
   cursor: pointer;
   border: 0;
   padding: 0;
   background-color: transparent;
-  height: 194px;
+  height: 12.13rem;
 }
 .edastatud {
   margin: 0;
   position: relative;
   background-color: var(--color-darkseagreen);
   width: 100%;
-  height: 1107px;
+  height: 69.19rem;
   overflow: hidden;
   display: flex;
   flex-direction: column;

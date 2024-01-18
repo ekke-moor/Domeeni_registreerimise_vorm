@@ -8,10 +8,10 @@ body {
   --font-inter: Inter;
 
   /* font sizes */
-  --font-size-9xl: 28px;
-  --font-size-14xl: 33px;
-  --font-size-lg: 18px;
-  --font-size-7xl: 26px;
+  --font-size-9xl: 1.75rem;
+  --font-size-14xl: 2.06rem;
+  --font-size-lg: 1.13rem;
+  --font-size-7xl: 1.63rem;
 
   /* Colors */
   --color-black: #000;
@@ -23,16 +23,16 @@ body {
   --color-gray: #2f2828;
 
   /* Gaps */
-  --gap-418xl: 437px;
-  --gap-sm: 14px;
+  --gap-418xl: 27.31rem;
+  --gap-sm: 0.88rem;
 
   /* Paddings */
-  --padding-5xs: 8px;
-  --padding-587xl: 606px;
-  --padding-45xl: 64px;
-  --padding-443xl: 462px;
-  --padding-429xl: 448px;
-  --padding-2xl: 21px;
+  --padding-5xs: 0.5rem;
+  --padding-587xl: 37.88rem;
+  --padding-45xl: 4rem;
+  --padding-443xl: 28.88rem;
+  --padding-429xl: 28rem;
+  --padding-2xl: 1.31rem;
 
   /* Border radiuses */
   --br-3xs: 10px;
